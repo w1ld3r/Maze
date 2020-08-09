@@ -24,10 +24,6 @@ make
 
 *Generated maze is saved by default in the current directory under the name __maze.txt__*
 
-## Authors
-
-* **[x1n5h3n](https://github.com/x1n5h3n)**
-
 ## License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
